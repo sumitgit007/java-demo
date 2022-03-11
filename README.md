@@ -1,2 +1,0 @@
-# java-demo
-hello world
